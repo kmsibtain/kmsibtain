@@ -116,7 +116,8 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+<h5 align="center">It might be lonelier
+Without the Lonelinessكَ</h5>
 
 
 
